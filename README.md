@@ -1,5 +1,7 @@
 Temat: 
 Wykorzystanie sieci neuronowych do stworzenia generatora tekstów piosenek w podziale na gatunki muzyczne.
+
+
 Plan pracy:
 1.	Opisanie celu pracy, jakim jest przyjrzenie się aktualnymi i potencjalnymi możliwościami AI w kwestii zadań kreatywnych oraz próba własnej implementacji AI w celu stworzenia generatora tekstów piosenek.
 
