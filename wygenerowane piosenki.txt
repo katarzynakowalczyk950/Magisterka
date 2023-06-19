@@ -1,0 +1,22 @@
+Liczba słów: 20
+
+
+pop (temp=0.5):
+
+you gotta have hope \n you know that i love you \n you know youll be the first one \n killin
+
+rock (temp=0.1):
+
+you know that i was wrong \n wherever you go i will follow you \n cause i was wrong \n wherever
+
+jazz (temp=0.01):
+she keeps on passing me by \n she keeps on passing me by \n she keeps on passing me by \n
+
+rap (temp=0.7):
+you know i love em all across the map \n cause id rather kick it \n jump jump jump jump \n
+
+country (temp=0.5): 
+she said i just shouldnt speak to you \n one more day \n im with you i want to know why
+
+blues (temp=):
+i need to move i need to fight you i cant win \n ive lost that girl for sure \n and
